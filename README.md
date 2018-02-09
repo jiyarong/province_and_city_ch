@@ -19,6 +19,8 @@ $ bundle
 Or install it yourself as:
 ```bash
 $ gem install province_and_city_ch
+$ rails g province_and_city_ch
+
 ```
 
 ## Contributing
